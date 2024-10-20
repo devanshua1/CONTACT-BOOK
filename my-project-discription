@@ -25,7 +25,8 @@ This can help save contact information and send reminders to check in.
  3. Project Description: 
 This project based on contact list book. It keeps the all the contacts saved in the list,
 personal as well as business-related.This contacts  project was devloped by using Python programming lanuage.
-The main benifit of this contact list book is that a person can replace hard book what is use for writing the contacts by using this project. By this project user can easily save in cotacts are "NAME","AGE","EMAIL" and,"MOBILE NUMBER" access by:
+The main benifit of this contact list book is that a person can replace hard book what is use for writing the contacts by using this project. 
+By this project user can easily save in cotacts are "NAME","AGE","EMAIL" and,"MOBILE NUMBER" access by:
 ⦁	1. create contact
 ⦁	2. view contact
 ⦁	3. update contact
@@ -34,18 +35,19 @@ The main benifit of this contact list book is that a person can replace hard boo
 ⦁	6. total no of contacts
 ⦁	7. exit
 4. Functionalities:   
-⦁	 1. create contact:
-              The purpose of creating a contact list is to organize and store contact information in a centralized place, making it easier to communicate with people. Contact lists can be used for a variety of purposes, including: 
-Sending emails
+⦁1. create contact:
+The purpose of creating a contact list is to organize and store contact information in a centralized place, making it easier to communicate with people. 
+Contact lists can be used for a variety of purposes, including: Sending emails
 A contact list can be used to send an email to a group of people by adding the list to the "To" line of an email. 
 Creating targeted subgroups
-Contact lists can be used to create targeted subgroups of a database, which can be used for a variety of purposes, such as building subscription-management controls or reporting on email results. 
+Contact lists can be used to create targeted subgroups of a database, which can be used for a variety of purposes, 
+such as building subscription-management controls or reporting on email results. 
 Streamlining communication
 Contact lists can make communication more efficient by removing the need to remember individual phone numbers or email addresses. 
 Including in other contact lists 
 Contact lists can include a variety of contact information, such as names, addresses, phone numbers, and email addresses. 
 ⦁	2. view contact:
-           Views contact can be useful for managing contact lists in various ways, including:
+  Views contact can be useful for managing contact lists in various ways, including:
 Filtering:
 Views can filter records based on property values, allowing you to limit the records you see. For example, you can create a view to show only completed contacts.
 Quick checks:
@@ -54,10 +56,14 @@ Saving:
 You can save views to come back to and review continuously.
    
 ⦁	3. update contact:
-             Keeping business contacts organized and updated is essential for the success of any business. Not only does it increase productivity, improve communication, lead to new opportunities, and better decision-making, but it also prevents the significant costs of lost contacts.
+Keeping business contacts organized and updated is essential for the success of any business.
+Not only does it increase productivity, improve communication, lead to new opportunities, and better decision-making, but it also prevents the significant costs of lost contacts.
 If you don't update your contact information, you might miss out on important reminders and time-sensitive prompts. 
 ⦁	4. delete contact:
-             Ultimately, the decision to delete  contact depends on your bussinuss need and circumstances. If you believe that having that contact could hinder your bussinuss to growth, it might be beneficial to delete it. Conversely, if you think you might need to communicate with them in the future, you may choose to keep it for now. Trust your instincts and prioritize what would be the best for your bussinus growth.
+    Ultimately, the decision to delete  contact depends on your bussinuss need and circumstances. 
+If you believe that having that contact could hinder your bussinuss to growth, it might be beneficial to delete it. 
+Conversely, if you think you might need to communicate with them in the future, you may choose to keep it for now. 
+Trust your instincts and prioritize what would be the best for your bussinus growth.
 ⦁	5. search contact:
         A search contact list can help your business in several ways, including: 
 when you have more number of contacts:
@@ -66,8 +72,11 @@ when you have more number of contacts:
 ⦁	7. exit:
        This is the function of project in which user have option to exist from that programme while loop.
 5. Input Versatility with Error Handling and Exception Handling: 
-   Exception handling is the process of responding to unexpected events that can occur while a computer program is running. Error handling, on the other hand, helps maintain the normal flow of a program's execution. 
-Exception handling is useful for dealing with exceptions that cannot be handled locally. Instead of showing an error status in the program, the exception handler transfers control to where the error can be handled. A function can throw exceptions or can choose to handle exceptions.
+   Exception handling is the process of responding to unexpected events that can occur while a computer program is running. 
+Error handling, on the other hand, helps maintain the normal flow of a program's execution. 
+Exception handling is useful for dealing with exceptions that cannot be handled locally. 
+Instead of showing an error status in the program, the exception handler transfers control to where the error can be handled. 
+A function can throw exceptions or can choose to handle exceptions.
 here exception in this project I give else condition to handel exception when will error or invalid or not exist it will print else condition.
 6. Code Implementation: 
 To implement the project, we utilize basic Python programming concepts to create a modular 
